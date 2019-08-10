@@ -2,6 +2,19 @@
 
 This repo contains the composed Quora dataset for the short paper "Query-bag Matching]{Query-bag Matching with Mutual Coverage for Information-seeking Conversations in E-commerce" in CIKM 2019. It also contains the detailed experiments of this paper.
 
+# An Example of Alime
+- An example of the query-bag pair and the corresponding answer.
+
+User query:} 
+怎么电话小二? (How to call you?) 
+Bag (Pre-defined questions):
+怎么联系你们? (How to contact you?) 
+客服热线是多少? (What's the hotline?) 
+Answer:} 
+电话是123456 (The phone number is 123456.) 
+
+
+
 # Composed Quora Dataset
 - Coming Soon
 
