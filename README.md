@@ -15,7 +15,8 @@ This repo contains the composed Quora dataset for the short paper "Query-bag Mat
 
 
 # Composed Quora Dataset
-- Coming Soon
+- The dataset is in the dataset directory.
+- The Quora dataset is composed from the [Quora Question Pairs Dataset](https://www.kaggle.com/quora/question-pairs-dataset)
 
 # Experiment Setup
 ## Data
